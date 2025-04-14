@@ -1,6 +1,6 @@
 ---
 title: "Project-2"
-author: "Manoj"
+author: "Sai Likhitha"
 date: "2023-12-05"
 output: html_document
 ---
